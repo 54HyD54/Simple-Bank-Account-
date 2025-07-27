@@ -1,0 +1,8 @@
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\bin\Debug\Banka Hesabı Uygulaması.exe.config
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\bin\Debug\Banka Hesabı Uygulaması.exe
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\bin\Debug\Banka Hesabı Uygulaması.pdb
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\obj\Debug\Banka Hesabı Uygulaması.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\obj\Debug\Banka Hesabı Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\obj\Debug\Banka Hesabı Uygulaması.exe
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\obj\Debug\Banka Hesabı Uygulaması.pdb
+C:\Users\hasan\source\repos\Banka Hesabı Uygulaması\Banka Hesabı Uygulaması\obj\Debug\Banka Hesabı Uygulaması.exe.config
